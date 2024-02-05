@@ -1,1 +1,37 @@
-Hello Myself Kushagra AGarwal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome, Kushagra!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            padding: 20px;
+        }
+
+        main {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hi myself Kushagra</h1>
+    </header>
+    
+    <main>
+        <p>Welcome to this beautiful page! We're glad to have you here.</p>
+        <!-- Your additional content can go here -->
+    </main>
+</body>
+</html>
